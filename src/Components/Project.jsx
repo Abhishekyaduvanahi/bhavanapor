@@ -1,7 +1,7 @@
 import React from "react";
 import projectImgae1 from "../assets/networkTrafficAnalysisUsingWireFrame.jpg";
 import projectImgae2 from "../assets/vullnerabilityAssesmentProject.jpg";
-import projectImgae3 from "../assets/muscleControlledWheelChair.png";
+import projectImgae3 from "../assets/muscleControlledWheelChairs.png";
 
 import { Project1, Project2, Project3 } from "../constants/Detail";
 
