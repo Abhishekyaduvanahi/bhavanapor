@@ -47,20 +47,20 @@ description:"• Developed an IoT system using Arduino software to monitor soil 
 // High School
 
 export const highSchool={
-  school:"Visweswaraiah English Medium High School",
+  school:"Sir visweswaraiah English medium high Schoo",
   address: "Allipura Ballari",
   percentage:"70.88%",
-  course:"Science and Mathematics",
-  duration:"1 Year"
+  course:"High School",
+  duration:"1 year"
 };
 
 // Enter Detail  Class 12th or Pre University
 export const enterSchool={
   course:"Pre-University",
-  school:"Bellary INDP PU College",
+  school:"Ballar independent PU College",
   address: "Hospet Road Allipura, Ballari",
-  percentage:"68.17%",
-  course:"Science [PCMC]",
+  percentage:"68.16%",
+  course:"PUC(12th)",
   duration:"3 Year"
 }
 

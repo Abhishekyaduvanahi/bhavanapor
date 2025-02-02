@@ -25,7 +25,7 @@ const Home = () => {
         </div> */}
         {/* this div is for name  */}
       </div>
-      <p className="md:w-[70%] w-[80%]  ">{about.description}</p>
+      <p className="md:w-[70%] w-[80%] mb-8 ">{about.description}</p>
     </section>
   );
 };
